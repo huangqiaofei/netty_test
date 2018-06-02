@@ -1,4 +1,4 @@
-package com.netty.netty_test;
+package com.netty.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
